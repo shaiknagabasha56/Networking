@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > This roadmap represents my personal approach to learning networking for cybersecurity.
-> The focus is on building a deep understanding of networking concepts that are most useful for ethical hacking, penetration testing, red teaming, blue teaming, SOC analysis, and malware analysis.
+> The focus is on building a deep understanding of networking concepts that are most useful for ethical hacking, penetration testing, red teaming,..
 > Use it as a reference and customize it according to your own goals, interests, and experience level.
 > As my knowledge grows, this roadmap will continue to evolve.
 >
