@@ -2,9 +2,19 @@
 
 # 🌐 Cybersecurity Networking Roadmap
 
+> [!NOTE]
+> This roadmap represents my personal approach to learning networking for cybersecurity.
+>
+> The focus is on building a deep understanding of networking concepts that are most useful for ethical hacking, penetration testing, red teaming, blue teaming, SOC analysis, and malware analysis.
+>
+> Use it as a reference and customize it according to your own goals, interests, and experience level.
+>
+> As my knowledge grows, this roadmap will continue to evolve.
+>
+> 
+
 ### A Structured Networking Roadmap for Cybersecurity
 
-**Ethical Hacking • Penetration Testing • Bug Bounty • Red Teaming • Blue Teaming • SOC Analysis • Malware Analysis • Purple Teaming**
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
@@ -596,25 +606,3 @@
 
 ---
 
-# 🎯 End Goal
-
-Become highly proficient in:
-
-* Ethical Hacking
-* Penetration Testing
-* Bug Bounty Hunting
-* Red Team Operations
-* Blue Team Operations
-* SOC Analysis
-* Malware Analysis
-* Purple Teaming
-
-By understanding:
-
-* How data moves
-* How systems communicate
-* How protocols work internally
-* How attackers abuse protocols
-* How defenders detect malicious activity
-
-Copy everything inside the document block into your `README.md` file and GitHub will render it with collapsible sections, checkboxes, a table of contents, badges, and proper formatting.
